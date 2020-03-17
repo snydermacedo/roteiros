@@ -11,12 +11,17 @@ Exemplos
 1. Explodindo sua mente
 
 Primeiramente Linux não é só isso:
+
 ![Terminal](Imagem/terminal.png "Terminal CentOS")
 
 Linux pode ser isso:
+
 ![DeepinLinux](https://www.deepin.org/wp-content/uploads/2016/12/dcc-2.png "Deepin Linux")
 
 ![DeepinLinux2](https://www.deepin.org/wp-content/uploads/2016/12/launcher-2.png "Launcher Deepin")
+
+Ou isso:
+![Gnome](https://www.gnome.org/wp-content/uploads/2017/04/featured-image@2x-1.png "Interface Gnome")
 
 > Quem é da area de tecnologia, deveria **conhecer**, **experimentar** um pouco de cada sistema,
 > eu gostaria de experimentar um Mac, para tirar as minha proprias conclusões, e não ficar só com a
