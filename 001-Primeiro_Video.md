@@ -16,6 +16,8 @@ Primeiramente Linux não é só isso:
 Linux pode ser isso:
 ![DeepinLinux](https://www.deepin.org/wp-content/uploads/2016/12/dcc-2.png "Deepin Linux")
 
+![DeepinLinux2](https://www.deepin.org/wp-content/uploads/2016/12/launcher-2.png "Launcher Deepin")
+
 > Quem é da area de tecnologia, deveria **conhecer**, **experimentar** um pouco de cada sistema,
 > eu gostaria de experimentar um Mac, para tirar as minha proprias conclusões, e não ficar só com a
 > opnião dos outros.
