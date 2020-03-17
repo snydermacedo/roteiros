@@ -26,7 +26,7 @@ Ou isso:
 
 > Quem é da area de tecnologia, deveria **conhecer**, **experimentar** um pouco de cada sistema,
 > eu gostaria de experimentar um Mac, para tirar as minha proprias conclusões, e não ficar só com a
-> opinião dos outros.Não posso falar de Mac porque nunca usei porém, posso falar de Linux, sistema que usou desde 2012 e
+> opinião dos outros. Não posso falar de Mac porque nunca usei porém, posso falar de Linux, sistema que usou desde 2012 e
 > posso falar também do Windows, pois foi aonde comecei e acompanho.
 
 2. 
