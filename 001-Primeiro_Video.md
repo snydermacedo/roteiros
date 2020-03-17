@@ -6,9 +6,8 @@ Neste video gostaria de mostrar o Linux, da forma como eu uso, e provar que não
 Exemplos
 - **Android**
 - **Roteador**
-- **YouTube**
 
-1. Explodindo sua mente
+1. 
 
 Primeiramente Linux não é só isso:
 
@@ -24,10 +23,12 @@ Ou isso:
 
 ![Gnome](https://www.gnome.org/wp-content/uploads/2017/04/featured-image@2x-1.png "Interface Gnome")
 
-> Quem é da area de tecnologia, deveria **conhecer**, **experimentar** um pouco de cada sistema,
-> eu gostaria de experimentar um Mac, para tirar as minha proprias conclusões, e não ficar só com a
-> opinião dos outros. Não posso falar de Mac porque nunca usei porém, posso falar de Linux, sistema que usou desde 2012 e
-> posso falar também do Windows, pois foi aonde comecei e acompanho.
+> Quem é da area de tecnologia, deveria **conhecer**, **experimentar** um pouco de cada sistema, eu gostaria de experimentar um Mac, para tirar as minha proprias conclusões, e não ficar só com a opinião dos outros. Não posso falar de Mac porque nunca usei porém, posso falar de Linux, sistema que usou desde 2012 e posso falar também do Windows, pois foi aonde comecei e acompanho.
 
-2. 
+
+2. Onde Está
+Vamos verificar os membros Platinum da Linux Foundation:
+
+![LinuxFoundation](Imagem/linuxfoundation..png "Membros Platinum")
+
 3. 
